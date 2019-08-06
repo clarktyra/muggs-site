@@ -53,7 +53,7 @@ p {
 .section-heading em {
   font-style: normal;
   font-weight: 700;
-  color: #45489a;
+  color: #af460b;
 }
 
 .section-heading p {
@@ -68,7 +68,7 @@ p {
 .white-button a {
   font-size: 13px;
   font-weight: 600;
-  color: #45489a;
+  color: #af460b;
   text-transform: capitalize;
   background-color: #fff;
   display: inline-block;
@@ -81,7 +81,7 @@ p {
 }
 
 .white-button a:hover {
-  background-color: #45489a;
+  background-color: #af460b;
   color: #fff;
 }
 
@@ -90,7 +90,7 @@ p {
   font-weight: 600;
   color: #fff;
   text-transform: capitalize;
-  background-color: #45489a;
+  background-color: #af460b;
   display: inline-block;
   height: 44px;
   line-height: 44px;
@@ -102,7 +102,7 @@ p {
 
 .accent-button a:hover {
   background-color: #fff;
-  color: #45489a;
+  color: #af460b;
 }
 
 header {
@@ -190,7 +190,7 @@ header {
   width: 100%;
   height: 140px;
   line-height: 100px;
-  background-color: #9a6445;
+  background-color: #af460b;
   padding: 20px;
   text-align: center;
 }
@@ -198,7 +198,7 @@ header {
 .sidebar-navigation .logo a {
   text-decoration: none;
   color: #fff;
-  font-size: 24px;
+  font-size: 33px;
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.5px;
@@ -308,7 +308,7 @@ header {
 }
 
 .sidebar-navigation .social-icons li a:hover {
-  color: #45489a;
+  color: #af460b;
 }
 
 
@@ -498,7 +498,7 @@ header {
 }
 
 #featured .owl-dots .active span {
-  background-color: #45489a!important;
+  background-color: #af460b!important;
 }
 
 #featured .owl-dots button {
@@ -534,7 +534,7 @@ header {
 }
 
 #featured .owl-nav span:hover {
-  background-color: #45489a;
+  background-color: #af460b;
   color: #fff;
 }
 
@@ -748,7 +748,7 @@ header {
   height: 90px;
   width: 100%;
   background-color: #eee;
-  border-bottom: 10px solid #45489a;
+  border-bottom: 10px solid #af460b;
 }
 
 #blog .tabs li {
@@ -774,7 +774,7 @@ header {
 }
 
 #blog .tabs a:hover {
-  color: #45489a;
+  color: #af460b;
 }
 
 
@@ -783,7 +783,7 @@ header {
 }
 
 #blog .tabs .active {
-  background-color: #45489a;
+  background-color: #af460b;
   color: #fff;
 }
 
@@ -902,7 +902,7 @@ header {
   font-weight: 600;
   color: #fff;
   text-transform: capitalize;
-  background-color: #45489a;
+  background-color: #af460b;
   display: inline-block;
   height: 44px;
   line-height: 24px;
